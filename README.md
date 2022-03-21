@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuanPablo2905
+- 👋 Hi, I’m @JuanPablo2905/Juan Pablo Rodriguez
 - 👀 I’m interested in VIDEOGAMES
 - 🌱 I’m currently learning python and c
 - 📫 How to reach me 11 2258 2701
